@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "Patch request stream",
+      "description": "Swedish fish 2",
+      "id": 1
+    },
+    {
+      "title": "Batmn",
+      "description": "batman is great",
+      "id": 2
+    }
+  ]
+}
